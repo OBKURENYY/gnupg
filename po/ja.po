@@ -3081,7 +3081,7 @@ msgstr "%s で %s 鍵によってこの鍵は、失効されました: %s\n"
 
 #, c-format
 msgid "This key may be revoked by %s key %s"
-msgstr "この鍵は、%s鍵%sによって失効されたようです"
+msgstr "この鍵は、%s鍵%sによって失効可能です"
 
 msgid "(sensitive)"
 msgstr "(機密指定)"
